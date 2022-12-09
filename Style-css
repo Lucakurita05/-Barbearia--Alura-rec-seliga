@@ -1,1 +1,35 @@
-Kk
+   body{
+
+   }
+
+   #banner {
+
+   }
+   
+   . Principal {
+    background:#CCCCCC
+     pading :30px;
+     .titulo-principal{
+      pading-left:20px;
+     }
+    }
+    .título centralizado{
+     text-aling:center
+     }
+     p {
+           text-aling:center;
+         } 
+ #missao {
+  "Font-size: 2 px
+ }
+ em strong {
+ Color:rede;
+ }
+ .itens
+ {
+   Font-style: italic 
+     }
+ . Benefícios {
+ Background:FFFFFF;
+  pading:20px;
+ }
